@@ -16,6 +16,7 @@ public class GitprojectApplication {
         System.out.println("");
         System.out.println("Githum 修改");
         System.out.println("IDEA 修改");
+        System.out.println("NO");
     }
 
 }
